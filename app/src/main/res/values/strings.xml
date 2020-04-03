@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">internetstores</string>
+  <string name="app_name">InternetStores</string>
   <string name="action_settings">Settings</string>
+  <string name="select_image">Select Image</string>
+  <string name="err_read_file">Read file error</string>
+  <string name="err_write_file">Write file error</string>
+  <string name="err_show_image">Show image error</string>
+  <string name="error">Error</string>
+  <string name="open">Open</string>
+  <string name="please_wait">Please wait&#8230;</string>
+  <string name="ok">OK</string>
+  <string name="get_camera_permission">Allow WhatsAround to use your camera and storage</string>
+  <string name="add_picture">Add Picture</string>
+  <string name="edit_picture">Edit Picture</string>
+  <string name="success">success</string>
 </resources>
